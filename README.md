@@ -1,9 +1,7 @@
 ### Hi there 👋
--I’m currently working on finding a course to study in IT.
+-I'm currently working on Todo List website https://connors-webpage.com/
+-I'm looking to learn more in the cybersecurity field!
 
--Im currently learning IT support with coursea.
-
--I'm looking for help with Cyber security.
 <!--
 **connordevitt/connordevitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
