@@ -1,5 +1,5 @@
 ### Hi there 👋
--I'm currently working on a Todo List website https://connors-webpage.com/
+-I'm currently working on my Todo List website https://connors-webpage.com/
 -I'm looking to learn more in the cybersecurity field!
 
 <!--
