@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub!
 
--Currently, im working on my Todo List website https://connors-webpage.com/
+-Currently, I'm working on my Todo List website https://connors-webpage.com/
 While also learning more in the cybersecurity field!
 
 <!--
