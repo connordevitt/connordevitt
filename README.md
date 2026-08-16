@@ -3,7 +3,9 @@
 -Currently, I'm working on my Todo List website https://connors-webpage.com/ and Apollo
 
 -Learning Go.
+
 -Learning cybersecurity, both Red and Blue team tasks. 
+
 -Developing stronger AWS/DevOps skills. 
 
 <!--
